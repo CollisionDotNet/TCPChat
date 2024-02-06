@@ -1,0 +1,5 @@
+C:\Users\Павел\source\repos\Chat\NetHelper\bin\Debug\NetHelper.dll
+C:\Users\Павел\source\repos\Chat\NetHelper\bin\Debug\NetHelper.pdb
+C:\Users\Павел\source\repos\Chat\NetHelper\obj\Debug\NetHelper.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\Chat\NetHelper\obj\Debug\NetHelper.dll
+C:\Users\Павел\source\repos\Chat\NetHelper\obj\Debug\NetHelper.pdb
